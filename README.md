@@ -14,6 +14,7 @@
 ## Проекты
 
 **Stets Home** — учебный дипломный проект приложения для умного дома. Проанализировала интервью с заказчиком и пользователями, сформулировала требования, подготовила модель данных, интерактивный прототип и программу испытаний.
+https://github.com/Dianadad2002/Practicum_projects
 
 <!--
 **Dianadad2002/Dianadad2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
